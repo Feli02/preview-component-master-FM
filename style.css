@@ -15,7 +15,6 @@ body{
     flex-direction: column;
 }
 .attribution{
-    position: absolute;
     width: 100%;
     line-height: 30px;
     bottom: 10px;
